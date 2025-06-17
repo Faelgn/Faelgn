@@ -2,7 +2,7 @@
 ## Hi I'm Rafael Lucas ✌️
 #### • Currently studying Computer Science (7rd period) 📚
 #### • Passionate about technology and programming ❤️👨🏽‍💻
-#### • Focused on Data Science 🖥️
+#### • Focused on Full Stack 🖥️
 #### • Contact email: rafalgnpedev@gmail.com
 <hr>
 
