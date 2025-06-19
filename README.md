@@ -57,20 +57,5 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
     
-  
-### 👨🏽‍💻 Development tools I use:
-<div Style="display: inline_block"><br/>
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <hr>
-
-  ### 👨🏽‍💻 Technologies I use in my day:
-<div Style="display: inline_block"><br/>
-  <img align="center" alt="html15" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- <img align="center" alt="html15" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img align="center" alt="html15" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
- <img align="center" alt="html15" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>
-  </div>
   <hr>
   
