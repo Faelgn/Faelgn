@@ -30,8 +30,6 @@
 
 </p>
 
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
