@@ -1,6 +1,6 @@
 
 ## Hi I'm Rafael Lucas ✌️
-#### • Currently studying Computer Science (7rd period) 📚
+#### • Currently studying Computer Science (8rd period) 📚
 #### • Passionate about technology and programming ❤️👨🏽‍💻
 #### • Focused on Full Stack 🖥️
 #### • Contact email: rafalgnpedev@gmail.com
