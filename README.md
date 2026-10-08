@@ -16,15 +16,6 @@ Atuo com suporte e implementação de soluções práticas para melhorar a dispo
 
 ## Projetos em destaque
 
-- 🐧 [Laboratório de Infraestrutura Linux](https://github.com/SEU-USUARIO/infraestrutura-linux-lab)
-  - Documentação prática de SSH, usuários, permissões, UFW, systemd, logs e rotinas de administração.
-
-- 🐳 [Serviços de TI com Docker](https://github.com/SEU-USUARIO/docker-servicos-ti)
-  - Ambiente com Docker Compose para implantação e gerenciamento de serviços internos.
-
-- ⚙️ [Automação de TI com Python](https://github.com/SEU-USUARIO/automacao-python-ti)
-  - Scripts para auditoria, inventário, verificações de rede, logs e tarefas repetitivas.
-
 - 🎫 [Bot de Chamados para Discord](https://github.com/SEU-USUARIO/discord-bot-chamados)
   - Automação de abertura e acompanhamento de solicitações de suporte.
 
