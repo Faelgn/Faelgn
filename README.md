@@ -16,7 +16,7 @@ Atuo com suporte e implementação de soluções práticas para melhorar a dispo
 
 ## Projetos em destaque
 
-- 🎫 [Bot de Chamados para Discord]([https://github.com/Faelgn/BOT_CHAMADOS)
+- 🎫 [Bot de Chamados para Discord]([https://github.com/Faelgn/BOT_CHAMADOS])
   - Automação de abertura e acompanhamento de solicitações de suporte.
 
 ## Tecnologias
